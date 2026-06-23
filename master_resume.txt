@@ -1,0 +1,75 @@
+Vasisht Reddy K
+Hyderabad, India  •  +91 7386091468  •  KVasishtReddy@gmail.com
+linkedin.com/in/vasisht-reddy-karra   •   github.com/KarraVasisht
+PROFESSIONAL SUMMARY:
+AI/ML & Data Engineer with 3+ years of professional experience (Feb 2021 – Jun 2026) in machine learning, data engineering, and 
+scalable pipeline architecture. Skilled in model training, feature engineering, and MLOps practices. Proficient in end-to-end model 
+deployment, building prototypes, prompt programming, and AI-accelerated vibe coding. Proven impact: 45% ETL throughput 
+gains, 60% query speedups, 99.9% pipeline reliability.
+TECHNICAL SKILLS:
+Languages: Python, SQL, Scala, JavaScript
+ML & AI: TensorFlow, Scikit-learn, MLOps, Pandas, NumPy, Feature Engineering, Prompt Programming, LLMs
+Big Data & Pipelines: Apache Spark, PySpark, Spark Streaming, Airflow, dbt
+Cloud & Databases: AWS S3, Glue, Redshift, GCP BigQuery, PostgreSQL, MongoDB, Supabase, MS SQL
+DevOps & Tools: Docker, Kubernetes, CI/CD, Git, React, Next.js, Vibe Coding
+PROFESSIONAL EXPERIENCE:
+Viswam Edutech Pvt Ltd | Data Engineer
+(Joined after completing MS from University of North Texas, May 2024)
+Feb 2025 – Present
+• Engineered randomized paper generation algorithms and bulk JSON data pipelines to scale assessment delivery and 
+streamline backend database management.
+• Enhanced Apache Spark pipelines to support high-throughput data ingestion for analytics, achieving a 45% increase in 
+throughput speed and a 20% reduction in cloud storage costs.
+• Architected robust data infrastructure for an end-to-end LAN-based exam portal, ensuring secure and seamless data flow for 
+10,000+ concurrent assessment sessions.
+• Accelerated prototype development for new data tooling by leveraging prompt programming and vibe coding workflows, 
+cutting initial development time by 30%.
+• Prototype-coded and deployed the Viswam EduTech Online Exam platform using prompt-driven vibe coding, delivering a fully 
+functional LAN-based assessment portal from concept to live deployment.
+• Maintained 99.9% pipeline reliability by automating data validation and optimizing scalable database schemas, reducing 
+incident response time by 40%.
+Brain-O-Vision | AI/ML Engineer
+(During final year of B.Tech, CSE – Vardhaman College of Engineering)
+Jan 2022 – Aug 2022
+• Designed and orchestrated 50+ Airflow DAGs to automate feature engineering and ML preprocessing, reducing manual model 
+preparation time by 90%.
+• Developed predictive modeling and anomaly scoring solutions across finance and healthcare domains, utilizing PySpark to 
+process 500 GB+ of daily log data.
+• Established and maintained robust infrastructure for continuous model retraining and evaluation, ensuring optimal model 
+performance and accuracy.
+Google Qwiklabs | Cloud & Data Intern
+(During B.Tech, CSE – Vardhaman College of Engineering)
+Feb 2021 – Dec 2021
+• Built and deployed deep learning workflows using TensorFlow within multi-cloud environments (AWS and GCP).
+• Implemented cloud-native MLOps tooling to support model monitoring, A/B testing frameworks, and scalable inference.
+• Engineered GCP Dataflow and Cloud Storage ingestion pipelines, decreasing data load times for ML training datasets by 35%.
+• Deployed real-time streaming analytics dashboards integrating Pub/Sub and BigQuery for live reporting and Kubernetes
+based distributed processing.
+KEY PROJECTS:
+Viswam EduTech Online Exam — Assessment Platform  [Live App ↗]  |  HTML, CSS, JavaScript, Prompt Engineering, Vibe Coding
+• Prototype-coded a full-featured online exam portal from scratch using prompt programming and vibe coding, rapidly iterating 
+from concept to a deployed, browser-accessible assessment platform.
+• Implemented randomized question delivery, timed assessments, and secure answer submission — demonstrating end-to-end 
+product delivery through AI-accelerated development workflows.
+FitStart — Health & Antioxidant Tracker  [Live App ↗]  |  React, Next.js, Supabase, GCP Cloud Run, TensorFlow
+• Full-stack data-driven application visualizing dietary antioxidant impacts, hosted on GCP Cloud Run for scalable, low-latency 
+serving — sustaining <200 ms p95 latency under load.
+• Deployed an ML model recommending antioxidant-rich foods based on user health profile and historical inputs, achieving 
+87% recommendation accuracy in internal evaluations.
+Real-Time Traffic Optimization    |  Python, Apache Spark Streaming, TensorFlow, PostgreSQL, Kubernetes
+• Built ML-based traffic prediction models using TensorFlow for 5-minute ahead forecasting, cutting average commute time by 
+22% in simulation.
+• Developed Spark Streaming pipelines processing 1.2 M events/sec from an IoT sensor network to enable adaptive rerouting 
+across 500+ road segments.
+Fraud Detection System    |  Python, Spark Streaming, Scikit-learn, PostgreSQL, Docker
+• Trained gradient-boosted ML models on 10 M+ transactions for anomaly scoring, achieving sub-second scoring latency and 
+94% detection accuracy at production scale.
+• Reduced false-positive rate by 38% via continuous model retraining through robust MLOps practices, saving an estimated 
+$2M/year in manual review costs.
+EDUCATION & CERTIFICATIONS:
+MS, Computer Science – University of North Texas
+B.Tech, Computer Science & Engineering – Vardhaman College of Engineering
+Graduated: May 2024
+Graduated: Aug 2022
+Certifications: Certified AI-Driven Professional (Be10x, 2026)  •  Data Engineering Master Program (Coursera, 2023)  •  Cloud Data 
+Engineering (Coursera, 2023)  •  Real-Time Data Engineering (Udemy, 2022
